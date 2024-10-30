@@ -13,7 +13,7 @@ public class RestaurantDriver {
         Menu dineInMenu = new Menu("Dine-In");
 
         // ArrayLists for dishes
-        ArrayList<String> standardDishes = new ArrayList<>(Arrays.asList("Paneer Butter Masala", "Chicken Tikka Masala", "Dal Makhani", "Aloo Gobi", "Palak Paneer","Punjabi Butter chicken", "Butter Naan","Garlic naan","Butter roti", "Garlic roti"));
+        ArrayList<String> standardDishes = new ArrayList<>(Arrays.asList("Paneer Butter Masala", "Chicken Tikka Masala", "Dal Maharani", "Aloo Gobi", "Palak Paneer","Punjabi Butter chicken", "Butter Naan","Garlic naan","Butter roti", "Garlic roti"));
         ArrayList<String> premiumDishes = new ArrayList<>(Arrays.asList("Lamb Rogan Josh", "Prawn Vindaloo", "Butter Chicken", "Goan Fish Curry", "Mutton Biryani","Punjabi Malai kofta","Cheese naan", "Cheese Garlic naan", "Aalu onion kulcha","Aalu paratha"));
         ArrayList<String> discountedDishes = new ArrayList<>(Arrays.asList("Vegetable Biryani", "Chole Bhature", "Rajma Chawal", "Masala Dosa", "Idli Sambar","Peas Pulau Rice","plain rice", "saffron rice", "coconut rice","Kasmiri rice"));
         ArrayList<String> drinksDishes = new ArrayList<>(Arrays.asList("Mango Lassi", "Masala Chai", "Sweet Lassi", "Filter Coffee", "Coconut Water","Jeera Lassi", "capachino", "Rozz lassi","Sparkling lemonade","cold drink"));
